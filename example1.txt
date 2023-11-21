@@ -1,6 +1,5 @@
-Main version
+Main version 
 file example1.txt
 changes applied
-trello task zadanie4
-experyment
+trello task zadanie8
 
