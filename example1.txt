@@ -1,10 +1,5 @@
 Main version
 file example1.txt
 changes applied
-<<<<<<< HEAD
 trello task zadanie4
 experyment
-=======
-trello task zadanie3
-experyment
->>>>>>> 7b13d49c284c2be46319a0c28f72c7417b8dff01
