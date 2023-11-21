@@ -1,6 +1,2 @@
-dfasdfsadfsadga
-zmiana 2 3 4
-zmiana 2 3 4
-nowy teskst 4
-
-nowy brancz
+Feature branch version
+file example1.txt
