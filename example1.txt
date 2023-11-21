@@ -1,4 +1,8 @@
 Main version
 file example1.txt
 changes applied
+<<<<<<< HEAD
 trello task zadanieJ
+=======
+trello task zadanie
+>>>>>>> 25cc107912d66f3c60cba1b99d9aa1bcdea7a975
