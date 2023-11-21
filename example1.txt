@@ -1,6 +1,6 @@
 dfasdfsadfsadga
 zmiana 2 3 4
 zmiana 2 3 4
-nowy teskst
+nowy teskst 4
 
 nowy brancz
