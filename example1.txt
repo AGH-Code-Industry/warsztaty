@@ -2,4 +2,4 @@ Main version
 file example1.txt
 changes applied
 trello task zadanie2137
-nei
+ratatat 2137
