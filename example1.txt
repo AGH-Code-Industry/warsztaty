@@ -1,4 +1,2 @@
-dfasdfsadfsadga
-zmiana 2 3 4
-zmiana 2 3 4
-nowy teskstv2
+Main version
+file example1.txt
